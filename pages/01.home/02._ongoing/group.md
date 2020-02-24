@@ -1,6 +1,6 @@
 ---
-title: 'Ongoing Projects'
-menu: 'Ongoing Projects'
+title: 'Ongoing'
+menu: 'Ongoing'
 content:
     items: '@self.children'
     order:

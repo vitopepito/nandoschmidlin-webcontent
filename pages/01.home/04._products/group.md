@@ -1,5 +1,6 @@
 ---
-title: 'Strategic Design'
+title: 'Products'
+menu: 'Products'
 content:
     items: '@self.children'
     order:
@@ -7,4 +8,4 @@ content:
         dir: asc
 ---
 
-<h1>Strategies</h1>
+<h1>Products</h1>

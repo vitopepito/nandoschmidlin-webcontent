@@ -1,6 +1,5 @@
 ---
-title: 'Product Design'
-menu: 'Product Design'
+title: 'Strategies'
 content:
     items: '@self.children'
     order:
@@ -8,4 +7,4 @@ content:
         dir: asc
 ---
 
-<h1>Products</h1>
+<h1>Strategies</h1>
