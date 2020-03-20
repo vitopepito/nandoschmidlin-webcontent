@@ -1,8 +1,7 @@
 ---
-title: Hi!
-menu: Hi!
+title: Kleine Quader
 ---
 
-### Kleine Quader is a project where several people have collaborated on series of small books. Series are curated roughly every year.
+### Kleine Quader is a project where several people have collaborated on several series of small books. The series are curated roughly every year.
 
 If you are interested to participate, send an email to mail@nandoschmidlin.ch

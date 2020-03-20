@@ -7,4 +7,4 @@ content:
         dir: asc
 ---
 
-### Dritte Serie
+# Dritte Serie
