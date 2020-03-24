@@ -1,5 +1,5 @@
 ---
-title: 'Dritte Serie'
+title: 'Erste Edition'
 content:
     items: '@self.children'
     order:
@@ -7,4 +7,4 @@ content:
         dir: asc
 ---
 
-# Dritte Serie
+# Erste Edition
