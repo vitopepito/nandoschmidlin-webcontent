@@ -2,6 +2,6 @@
 title: Kleine Quader
 ---
 
-### Kleine Quader is a project where several people have collaborated on several series of small books. The series are curated roughly every year.
+### Kleine Quader ist ein Projekt, wo verschiedene Menschen verschiedene Editionen von kleinen Büchlein machen. Ungefähr alle Jahre wird eine Edition kuratiert.
 
-If you are interested to participate, send an email to mail@nandoschmidlin.ch
+Falls du auf dem laufenden bleiben möchtest, schreibe an mail@nandoschmidlin.ch

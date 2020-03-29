@@ -7,4 +7,4 @@ content:
         dir: asc
 ---
 
-# Zweite Edition
+# 2. Edition

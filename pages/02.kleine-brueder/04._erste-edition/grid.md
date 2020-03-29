@@ -7,4 +7,4 @@ content:
         dir: asc
 ---
 
-# Erste Edition
+# 1. Edition
