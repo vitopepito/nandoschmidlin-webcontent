@@ -1,5 +1,5 @@
 ---
-title: 'Kleine Brüder'
+title: 'Kleine Quader'
 content:
     items: '@self.modular'
     order:
