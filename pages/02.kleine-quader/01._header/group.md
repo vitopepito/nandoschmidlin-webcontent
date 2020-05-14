@@ -14,11 +14,7 @@ media_order: Kleine-Quader_320px.gif
 
 Wenn du bei Kleine Quader mitmachst, hältst du am Schluss 16 kleine Büchlein in der Hand. Jedes davon wurde von einer anderen Person gestaltet und umgesetzt. 
 
-<<<<<<< HEAD
 Dazu kommt es in drei Schritten: (1) Du gestaltest ein Büchlein, ganz frei, nach einem Thema deiner Wahl oder ohne Thema. (2) Du stellst davon 20 Stück her. Sie müssen genau dem Format DIN A6 entsprechen (105x148mm) und dürfen nicht dicker als 3mm sein. (3) An der Vernissage gibst du allen andern Autorinnen und Autoren (plus dem Organisatorenteam und dem Archiv) eines deiner Büchlein. Gleichzeitig bekommst auch du von allen ein Büchlein. Am Schluss hast du eine limitierte Edition von 16 Büchlein in der Hand. 
-=======
-Dazu kommt es in drei Schritten: (1) Du gestaltest ein Büchlein, ganz frei, nach einem Thema deiner Wahl oder ohne Thema. (2) Du stellst davon 20 Stk. her und achtest darauf, dass sie das Format DIN A6 nicht überschreiten (105x148mm, Dicke max. 3mm). (3) An der Vernissage gibst du allen andern Autorinnen und Autoren (plus dem Organisatorenteam und dem Archiv) eines deiner Büchlein. Gleichzeitig bekommst auch du von allen ein Büchlein. Am Schluss hast du eine limitierte Edition von 16 Büchlein in der Hand. 
->>>>>>> 7ea7ea68329300cc110e2d0d3c4cc46e6f7e2627
 
 **Information**
 
